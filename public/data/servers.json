@@ -542,5 +542,12 @@
     "flag": "au",
     "platform": "switch",
     "type": "dotnet"
-  }
+ },
+ {
+    "ip": "editor-anagram.bnr.la",
+    "port": 11451,
+    "flag": "au",
+    "platform": "switch",
+    "type": "rust"
+   }
 ]
